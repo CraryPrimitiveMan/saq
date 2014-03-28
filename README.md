@@ -1,7 +1,7 @@
 SAQ
 ===
 
-SAQ是指Small Asynchronous Queue，即短小的异步调用库。
+SAQ是指Small Asynchronous Queue，即短小精悍的异步调用库。
 
 <pre><code>
 var obj = {
